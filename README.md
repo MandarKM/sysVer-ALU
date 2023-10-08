@@ -1,5 +1,7 @@
 Problem 1 from the book System Verification for testbench by Chris Spear ● Greg Tumbush
-Write a verifi cation plan for an Arithmetic Logic Unit (ALU) with:
+
+
+/* Write a verifi cation plan for an Arithmetic Logic Unit (ALU) with:
 • Asynchronous active high input reset 
 • Input clock 
 • 4-bit signed inputs, A and B 
@@ -9,3 +11,4 @@ Write a verifi cation plan for an Arithmetic Logic Unit (ALU) with:
 – Sub: A − B 
 – Bit-wise invert: A 
 – Reduction Or: B
+*/
